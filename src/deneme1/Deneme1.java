@@ -6,4 +6,6 @@ public class Deneme1 {
 
 
     // deneme 1 degisiklik1
+    
+    //githup degisiklik
 }
